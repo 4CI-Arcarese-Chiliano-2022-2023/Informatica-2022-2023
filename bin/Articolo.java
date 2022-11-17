@@ -1,5 +1,5 @@
 /*
-
+  Parte model del progetto.
   autor: Chiliano Arcarese 4CI
   version: 1.0.1
                                             */
