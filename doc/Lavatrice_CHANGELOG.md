@@ -7,19 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.5] - 2022-11-20
 ### Added
 class:
-	+ LavatriceView:
-		- start()
-		- getUserProgram()
-	  - calcolaConsumo()
++ LavatriceView:
+	- start()
+	- getUserProgram()
+	 - calcolaConsumo()
 
-	+ LavatriceControl:
-		- main()
++ LavatriceControl:
+	- main()
 
-	+ Lavatrice:
-		- equals()
-		- Lavatrice() (copy constructor)
-		- setKiloWatt
-		- getKiloWatt
++ Lavatrice:
+	- equals()
+	- Lavatrice() (copy constructor)
+	- setKiloWatt
+	- getKiloWatt
 
 
 ## [1.0.4] - 2022-10-02
