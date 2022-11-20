@@ -25,36 +25,36 @@ class:
 ## [1.0.4] - 2022-10-02
 ### Modified
 metodo:
-	setProgramma() - [switch case added]
+	+ setProgramma() - [switch case added]
 
 ## [1.0.3] - 2022-09-30
 ### Added
 metodi:
-	aumentaGiri()
-	aumentaTemperatura()
-	aumentaKg()
-	aumentaTempo()
-	diminuisciGiri()
-	diminuisciTemperatura()
-	diminuisciKg()
-	diminuisciTempo()
+	+ aumentaGiri()
+	+ aumentaTemperatura()
+	+ aumentaKg()
+	+ aumentaTempo()
+	+ diminuisciGiri()
+	+ diminuisciTemperatura()
+	+ diminuisciKg()
+	+ diminuisciTempo()
 
 ## [1.0.2] - 2022-09-30
 ### Added
 metodi:
-	setTempo();
-	setPrograma();
-	setTemperatura();
-	setGiriCentrifuga();
-	setKg();
-	accendi()
-	spegni()
-	getTempo()
-	getPrograma()
-	getTemperatura()
-	getGiriCentrifuga()
-	getKg()
-	getAcceso()
+	+ setTempo();
+	+ setPrograma();
+	+ setTemperatura();
+	+ setGiriCentrifuga();
+	+ setKg();
+	+ accendi()
+	+ spegni()
+	+ getTempo()
+	+ getPrograma()
+	+ getTemperatura()
+	+ getGiriCentrifuga()
+	+ getKg()
+	+ getAcceso()
 
 
 
@@ -62,4 +62,4 @@ metodi:
 ### Added
 costruttori
 metodi:
-	- toString()
+	+ toString()
