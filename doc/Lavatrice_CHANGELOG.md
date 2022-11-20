@@ -29,7 +29,7 @@ metodo:
 
 ## [1.0.3] - 2022-09-30
 ### Added
-metodi:
+ - metodi:
 	+ aumentaGiri()
 	+ aumentaTemperatura()
 	+ aumentaKg()
@@ -41,7 +41,7 @@ metodi:
 
 ## [1.0.2] - 2022-09-30
 ### Added
-metodi:
+- metodi:
 	+ setTempo();
 	+ setPrograma();
 	+ setTemperatura();
@@ -60,6 +60,6 @@ metodi:
 
 ## [1.0.1] - 2022-09-30
 ### Added
-costruttori
-metodi:
+- costruttori
+- metodi:
 	+ toString()
