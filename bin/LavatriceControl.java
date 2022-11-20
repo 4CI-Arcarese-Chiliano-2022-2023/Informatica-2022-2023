@@ -1,6 +1,6 @@
 /*
-  Parte control dell'applicazione.
-	data: 19/11/2022
+  Applicazione che accende un oggetto lavatrice, ne fa settare il programma dall'utente per poi restituire il condume e spegnere loggetto.
+	data: 20/11/2022
 	autore: Arcarese Chiliano
 	versione: 1.0.5
 																																																			*/

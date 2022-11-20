@@ -44,6 +44,17 @@ public class Lavatrice{
 		this.kg = 0;
 		this.acceso = false;
 	}
+	public Lavatrice(Lavatrice l){
+		this.marca = l.marca;
+		this.modello = l.modello;
+		this.prezzo = l.prezzo;
+		this.tempo = l.tempo;
+		this.programma = l.programma;
+		this.temperatura = l.temperatura;
+		this.giriCentrifuga = l.giriCentrifuga;
+		this.kg = l.kg;
+		this.acceso = l.acceso;
+	}
 
 	//set methods
 	public void setMarca(String m){
@@ -207,5 +218,13 @@ public class Lavatrice{
 
 		return out;
 
+	}
+	public boolean equals{
+		if (this.marca.equals(l.marca) && this.modello.equals(l.modello)
+				this.prezzo == l.prezzo && this.tempo = l.tempo && this.programma = l.programma
+				&& this.temperatura == l.temperatura && this.giriCentrifuga == l.giriCentrifuga
+				&& this.kg == l.kg && this.acceso == l.acceso)
+				return true;
+			return false;
 	}
 }//class
